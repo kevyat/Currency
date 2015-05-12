@@ -1,0 +1,12 @@
+This python code is designed to convert currencies.
+The currencies will be converted based on the conversion rates on _________________
+
+Specify the amount to be converted and the desired conversion using the following format:
+125 USD EUR
+
+This converts 125 US dollars to _____ Euros.
+
+This program will only take a select few currencies. To used this code without error use the currencies shown below:
+
+USD 	United States Dollar
+EUR	 	European Dollar
